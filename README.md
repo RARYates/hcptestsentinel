@@ -1,0 +1,2 @@
+# hcptestsentinel
+sentinel policy test
